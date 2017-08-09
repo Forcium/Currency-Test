@@ -1,1 +1,1 @@
-# Currency-Test
+# Goldcoin
